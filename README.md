@@ -32,3 +32,5 @@ The following links will help you as you implement these systems yourself:
 * [Xamarin](platforms/xamarin.md)
 
 If you're coming back to this page after the lab and need further assistance, you can reach me [here](mailto:chrisner@microsoft.com).
+
+* [Server script reference](http://msdn.microsoft.com/en-us/library/windowsazure/jj554226.aspx)
